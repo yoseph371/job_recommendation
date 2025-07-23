@@ -1,0 +1,681 @@
+user_id,skillset,industry,location
+1,Software Development,Information Technology,Addis Ababa
+2,Project Management,Non-profit,Remote
+3,Data Analysis,Finance,Adama
+4,Marketing,Retail,Hawassa
+5,Human Resources,Manufacturing,Mekelle
+6,Graphic Design,Media,Dire Dawa
+7,Civil Engineering,Construction,Bahir Dar
+8,Healthcare Administration,Healthcare,Gondar
+9,Supply Chain Management,Logistics,Jimma
+10,Customer Service,Telecommunications,Dessie
+11,Financial Accounting,Banking,Addis Ababa
+12,Electrical Engineering,Energy,Adama
+13,Content Writing,Education,Remote
+14,Sales,Automotive,Hawassa
+15,Legal Counsel,Law,Mekelle
+16,Research,Agriculture,Bahir Dar
+17,Network Administration,IT Services,Dire Dawa
+18,Public Relations,Government,Addis Ababa
+19,Environmental Science,Consulting,Jimma
+20,Web Development,E-commerce,Remote
+21,Business Analysis,Consulting,Addis Ababa
+22,Product Management,Technology,Remote
+23,UX/UI Design,Creative,Adama
+24,Digital Marketing,Marketing,Hawassa
+25,Recruitment,Human Resources,Mekelle
+26,Architecture,Construction,Dire Dawa
+27,Nursing,Healthcare,Bahir Dar
+28,Logistics Coordination,Logistics,Gondar
+29,Technical Support,IT Services,Jimma
+30,Public Speaking,Education,Dessie
+31,Investment Banking,Finance,Addis Ababa
+32,Chemical Engineering,Manufacturing,Adama
+33,Journalism,Media,Remote
+34,Retail Management,Retail,Hawassa
+35,Corporate Law,Law,Mekelle
+36,Environmental Consulting,Consulting,Bahir Dar
+37,Cybersecurity,Information Technology,Dire Dawa
+38,Policy Analysis,Government,Addis Ababa
+39,GIS Specialist,Environmental,Jimma
+40,Mobile Development,E-commerce,Remote
+41,Database Administration,Information Technology,Addis Ababa
+42,Operations Management,Manufacturing,Remote
+43,Financial Planning,Finance,Adama
+44,Brand Management,Retail,Hawassa
+45,Talent Acquisition,Human Resources,Mekelle
+46,Structural Engineering,Construction,Dire Dawa
+47,Pharmacy,Healthcare,Bahir Dar
+48,Warehouse Management,Logistics,Gondar
+49,System Administration,IT Services,Jimma
+50,Curriculum Development,Education,Dessie
+51,Risk Management,Banking,Addis Ababa
+52,Mechanical Engineering,Energy,Adama
+53,Technical Writing,Education,Remote
+54,Account Management,Automotive,Hawassa
+55,Intellectual Property Law,Law,Mekelle
+56,Agronomy,Agriculture,Bahir Dar
+57,Cloud Computing,IT Services,Dire Dawa
+58,International Relations,Government,Addis Ababa
+59,Urban Planning,Consulting,Jimma
+60,Backend Development,E-commerce,Remote
+61,Network Security,Information Technology,Addis Ababa
+62,Production Planning,Manufacturing,Remote
+63,Auditing,Finance,Adama
+64,Social Media Marketing,Retail,Hawassa
+65,Compensation & Benefits,Human Resources,Mekelle
+66,Quantity Surveying,Construction,Dire Dawa
+67,Medical Laboratory Science,Healthcare,Bahir Dar
+68,Fleet Management,Logistics,Gondar
+69,IT Support,IT Services,Jimma
+70,E-learning Development,Education,Dessie
+71,Trade Finance,Banking,Addis Ababa
+72,Industrial Engineering,Manufacturing,Adama
+73,Instructional Design,Education,Remote
+74,Automotive Sales,Automotive,Hawassa
+75,Criminal Law,Law,Mekelle
+76,Forestry,Agriculture,Bahir Dar
+77,IT Project Management,IT Services,Dire Dawa
+78,Public Policy,Government,Addis Ababa
+79,Water Resource Management,Environmental,Jimma
+80,Frontend Development,E-commerce,Remote
+81,DevOps,Information Technology,Addis Ababa
+82,Quality Control,Manufacturing,Remote
+83,Taxation,Finance,Adama
+84,Market Research,Retail,Hawassa
+85,Organizational Development,Human Resources,Mekelle
+86,Construction Management,Construction,Dire Dawa
+87,Physiotherapy,Healthcare,Bahir Dar
+88,Procurement,Logistics,Gondar
+89,Database Development,IT Services,Jimma
+90,Corporate Training,Education,Dessie
+91,Investment Analysis,Banking,Addis Ababa
+92,Biomedical Engineering,Manufacturing,Adama
+93,Research Writing,Education,Remote
+94,Dealership Management,Automotive,Hawassa
+95,Family Law,Law,Mekelle
+96,Soil Science,Agriculture,Bahir Dar
+97,System Analysis,IT Services,Dire Dawa
+98,Diplomacy,Government,Addis Ababa
+99,Waste Management,Environmental,Jimma
+100,Full-stack Development,E-commerce,Remote
+101,Cloud Architecture,Information Technology,Addis Ababa
+102,Supply Chain Optimization,Manufacturing,Remote
+103,Financial Reporting,Finance,Adama
+104,E-commerce Marketing,Retail,Hawassa
+105,Employee Relations,Human Resources,Mekelle
+106,Site Supervision,Construction,Dire Dawa
+107,Public Health,Healthcare,Bahir Dar
+108,Logistics Planning,Logistics,Gondar
+109,Network Engineering,IT Services,Jimma
+110,Adult Education,Education,Dessie
+111,Commercial Banking,Banking,Addis Ababa
+112,Process Engineering,Manufacturing,Adama
+113,Grant Writing,Education,Remote
+114,Vehicle Maintenance,Automotive,Hawassa
+115,Constitutional Law,Law,Mekelle
+116,Crop Science,Agriculture,Bahir Dar
+117,Data Center Management,IT Services,Dire Dawa
+118,International Development,Government,Addis Ababa
+119,Environmental Policy,Environmental,Jimma
+120,UI Development,E-commerce,Remote
+121,IT Security,Information Technology,Addis Ababa
+122,Lean Manufacturing,Manufacturing,Remote
+123,Budgeting,Finance,Adama
+124,Product Marketing,Retail,Hawassa
+125,HR Analytics,Human Resources,Mekelle
+126,Building Information Modeling,Construction,Dire Dawa
+127,Occupational Therapy,Healthcare,Bahir Dar
+128,Inventory Management,Logistics,Gondar
+129,Help Desk Support,IT Services,Jimma
+130,Vocational Training,Education,Dessie
+131,Corporate Finance,Banking,Addis Ababa
+132,Manufacturing Engineering,Manufacturing,Adama
+133,Curriculum Design,Education,Remote
+134,Automotive Repair,Automotive,Hawassa
+135,Administrative Law,Law,Mekelle
+136,Horticulture,Agriculture,Bahir Dar
+137,System Administration,IT Services,Dire Dawa
+138,Public Administration,Government,Addis Ababa
+139,Renewable Energy,Environmental,Jimma
+140,E-commerce Operations,E-commerce,Remote
+141,IT Audit,Information Technology,Addis Ababa
+142,Production Management,Manufacturing,Remote
+143,Financial Analysis,Finance,Adama
+144,Digital Advertising,Retail,Hawassa
+145,Employee Training,Human Resources,Mekelle
+146,Civil Engineering Design,Construction,Dire Dawa
+147,Clinical Research,Healthcare,Bahir Dar
+148,Supply Chain Analysis,Logistics,Gondar
+149,Software Testing,IT Services,Jimma
+150,Educational Technology,Education,Dessie
+151,Retail Banking,Banking,Addis Ababa
+152,Quality Assurance,Manufacturing,Adama
+153,Instructional Technology,Education,Remote
+154,Automotive Diagnostics,Automotive,Hawassa
+155,International Law,Law,Mekelle
+156,Animal Science,Agriculture,Bahir Dar
+157,Database Management,IT Services,Dire Dawa
+158,Government Relations,Government,Addis Ababa
+159,Pollution Control,Environmental,Jimma
+160,UX Research,E-commerce,Remote
+161,Network Administration,Information Technology,Addis Ababa
+162,Operations Planning,Manufacturing,Remote
+163,Forecasting,Finance,Adama
+164,Brand Strategy,Retail,Hawassa
+165,Performance Management,Human Resources,Mekelle
+166,Structural Analysis,Construction,Dire Dawa
+167,Epidemiology,Healthcare,Bahir Dar
+168,Warehousing,Logistics,Gondar
+169,Cybersecurity Consulting,IT Services,Jimma
+170,Higher Education,Education,Dessie
+171,Wealth Management,Banking,Addis Ababa
+172,Manufacturing Operations,Manufacturing,Adama
+173,Online Course Development,Education,Remote
+174,Vehicle Sales,Automotive,Hawassa
+175,Human Rights Law,Law,Mekelle
+176,Fisheries Management,Agriculture,Bahir Dar
+177,IT Infrastructure,IT Services,Dire Dawa
+178,Public Sector Management,Government,Addis Ababa
+179,Conservation,Environmental,Jimma
+180,E-commerce Platform Management,E-commerce,Remote
+181,Information Security,Information Technology,Addis Ababa
+182,Production Optimization,Manufacturing,Remote
+183,Financial Modeling,Finance,Adama
+184,Sales Management,Retail,Hawassa
+185,Talent Management,Human Resources,Mekelle
+186,Construction Project Management,Construction,Dire Dawa
+187,Mental Health,Healthcare,Bahir Dar
+188,Customs Clearance,Logistics,Gondar
+189,Cloud Security,IT Services,Jimma
+190,Educational Leadership,Education,Dessie
+191,Corporate Banking,Banking,Addis Ababa
+192,Supply Chain Management,Manufacturing,Adama
+193,Academic Writing,Education,Remote
+194,Automotive Engineering,Automotive,Hawassa
+195,Environmental Law,Law,Mekelle
+196,Agricultural Economics,Agriculture,Bahir Dar
+197,Data Privacy,IT Services,Dire Dawa
+198,Local Government,Government,Addis Ababa
+199,Climate Change Adaptation,Environmental,Jimma
+200,Digital Product Management,E-commerce,Remote
+201,IT Consulting,Information Technology,Addis Ababa
+202,Logistics Management,Manufacturing,Remote
+203,Investment Banking,Finance,Adama
+204,Retail Operations,Retail,Hawassa
+205,Workforce Planning,Human Resources,Mekelle
+206,Quantity Surveying,Construction,Dire Dawa
+207,Nutrition,Healthcare,Bahir Dar
+208,Freight Forwarding,Logistics,Gondar
+209,Network Architecture,IT Services,Jimma
+210,Special Education,Education,Dessie
+211,Private Banking,Banking,Addis Ababa
+212,Process Improvement,Manufacturing,Adama
+213,Curriculum Development,Education,Remote
+214,Automotive Sales,Automotive,Hawassa
+215,Legal Research,Law,Mekelle
+216,Agricultural Science,Agriculture,Bahir Dar
+217,System Integration,IT Services,Dire Dawa
+218,Public Affairs,Government,Addis Ababa
+219,Waste Management,Environmental,Jimma
+220,E-commerce Analytics,E-commerce,Remote
+221,IT Project Management,Information Technology,Addis Ababa
+222,Production Control,Manufacturing,Remote
+223,Financial Planning,Finance,Adama
+224,Visual Merchandising,Retail,Hawassa
+225,HR Information Systems,Human Resources,Mekelle
+226,Building Services Engineering,Construction,Dire Dawa
+227,Pharmacy Management,Healthcare,Bahir Dar
+228,Logistics Coordination,Logistics,Gondar
+229,Technical Support,IT Services,Jimma
+230,Corporate Training,Education,Dessie
+231,Financial Advisory,Banking,Addis Ababa
+232,Industrial Automation,Manufacturing,Adama
+233,E-learning Content Development,Education,Remote
+234,Automotive Marketing,Automotive,Hawassa
+235,Constitutional Law,Law,Mekelle
+236,Agricultural Engineering,Agriculture,Bahir Dar
+237,Data Warehousing,IT Services,Dire Dawa
+238,Public Relations,Government,Addis Ababa
+239,Environmental Impact Assessment,Environmental,Jimma
+240,Online Marketing,E-commerce,Remote
+241,Cybersecurity,Information Technology,Addis Ababa
+242,Quality Management,Manufacturing,Remote
+243,Internal Audit,Finance,Adama
+244,Customer Relationship Management,Retail,Hawassa
+245,Employee Engagement,Human Resources,Mekelle
+246,Site Management,Construction,Dire Dawa
+247,Community Health,Healthcare,Bahir Dar
+248,Transport Management,Logistics,Gondar
+249,Software Development,IT Services,Jimma
+250,Educational Assessment,Education,Dessie
+251,Investment Management,Banking,Addis Ababa
+252,Production Supervision,Manufacturing,Adama
+253,Academic Advising,Education,Remote
+254,Automotive Service Management,Automotive,Hawassa
+255,Commercial Law,Law,Mekelle
+256,Rural Development,Agriculture,Bahir Dar
+257,IT Support,IT Services,Dire Dawa
+258,Policy Development,Government,Addis Ababa
+259,Sustainable Development,Environmental,Jimma
+260,Web Analytics,E-commerce,Remote
+261,IT Governance,Information Technology,Addis Ababa
+262,Manufacturing Engineering,Manufacturing,Remote
+263,Treasury Management,Finance,Adama
+264,Retail Sales,Retail,Hawassa
+265,Recruitment,Human Resources,Mekelle
+266,Architectural Design,Construction,Dire Dawa
+267,Medical Records,Healthcare,Bahir Dar
+268,Logistics Operations,Logistics,Gondar
+269,IT Infrastructure Management,IT Services,Jimma
+270,Curriculum Implementation,Education,Dessie
+271,Credit Analysis,Banking,Addis Ababa
+272,Operations Management,Manufacturing,Adama
+273,E-learning Platform Management,Education,Remote
+274,Automotive Parts Sales,Automotive,Hawassa
+275,Legal Writing,Law,Mekelle
+276,Agribusiness,Agriculture,Bahir Dar
+277,Data Migration,IT Services,Dire Dawa
+278,Public Sector Consulting,Government,Addis Ababa
+279,Environmental Management Systems,Environmental,Jimma
+280,SEO/SEM,E-commerce,Remote
+281,Network Security,Information Technology,Addis Ababa
+282,Production Planning,Manufacturing,Remote
+283,Financial Reporting,Finance,Adama
+284,Brand Management,Retail,Hawassa
+285,Talent Acquisition,Human Resources,Mekelle
+286,Structural Engineering,Construction,Dire Dawa
+287,Nursing,Healthcare,Bahir Dar
+288,Logistics Coordination,Logistics,Gondar
+289,Technical Support,IT Services,Jimma
+290,Public Speaking,Education,Dessie
+291,Investment Banking,Finance,Addis Ababa
+292,Chemical Engineering,Manufacturing,Adama
+293,Journalism,Media,Remote
+294,Retail Management,Retail,Hawassa
+295,Corporate Law,Law,Mekelle
+296,Environmental Consulting,Consulting,Bahir Dar
+297,Cybersecurity,Information Technology,Dire Dawa
+298,Policy Analysis,Government,Addis Ababa
+299,GIS Specialist,Environmental,Jimma
+300,Mobile Development,E-commerce,Remote
+301,Database Administration,Information Technology,Addis Ababa
+302,Operations Management,Manufacturing,Remote
+303,Financial Planning,Finance,Adama
+304,Brand Management,Retail,Hawassa
+305,Recruitment,Human Resources,Mekelle
+306,Architecture,Construction,Dire Dawa
+307,Nursing,Healthcare,Bahir Dar
+308,Logistics Coordination,Logistics,Gondar
+309,Technical Support,IT Services,Jimma
+310,Public Speaking,Education,Dessie
+311,Investment Banking,Finance,Addis Ababa
+312,Chemical Engineering,Manufacturing,Adama
+313,Journalism,Media,Remote
+314,Retail Management,Retail,Hawassa
+315,Corporate Law,Law,Mekelle
+316,Environmental Consulting,Consulting,Bahir Dar
+317,Cybersecurity,Information Technology,Dire Dawa
+318,Policy Analysis,Government,Addis Ababa
+319,GIS Specialist,Environmental,Jimma
+320,Mobile Development,E-commerce,Remote
+321,Database Administration,Information Technology,Addis Ababa
+322,Operations Management,Manufacturing,Remote
+323,Financial Planning,Finance,Adama
+324,Brand Management,Retail,Hawassa
+325,Recruitment,Human Resources,Mekelle
+326,Architecture,Construction,Dire Dawa
+327,Nursing,Healthcare,Bahir Dar
+328,Logistics Coordination,Logistics,Gondar
+329,Technical Support,IT Services,Jimma
+330,Public Speaking,Education,Dessie
+331,Investment Banking,Finance,Addis Ababa
+332,Chemical Engineering,Manufacturing,Adama
+333,Journalism,Media,Remote
+334,Retail Management,Retail,Hawassa
+335,Corporate Law,Law,Mekelle
+336,Environmental Consulting,Consulting,Bahir Dar
+337,Cybersecurity,Information Technology,Dire Dawa
+338,Policy Analysis,Government,Addis Ababa
+339,GIS Specialist,Environmental,Jimma
+340,Mobile Development,E-commerce,Remote
+341,Database Administration,Information Technology,Addis Ababa
+342,Operations Management,Manufacturing,Remote
+343,Financial Planning,Finance,Adama
+344,Brand Management,Retail,Hawassa
+345,Recruitment,Human Resources,Mekelle
+346,Architecture,Construction,Dire Dawa
+347,Nursing,Healthcare,Bahir Dar
+348,Logistics Coordination,Logistics,Gondar
+349,Technical Support,IT Services,Jimma
+350,Public Speaking,Education,Dessie
+351,Investment Banking,Finance,Addis Ababa
+352,Chemical Engineering,Manufacturing,Adama
+353,Journalism,Media,Remote
+354,Retail Management,Retail,Hawassa
+355,Corporate Law,Law,Mekelle
+356,Environmental Consulting,Consulting,Bahir Dar
+357,Cybersecurity,Information Technology,Dire Dawa
+358,Policy Analysis,Government,Addis Ababa
+359,GIS Specialist,Environmental,Jimma
+360,Mobile Development,E-commerce,Remote
+361,Business Analysis,Consulting,Addis Ababa
+362,Product Management,Technology,Remote
+363,UX/UI Design,Creative,Adama
+364,Digital Marketing,Marketing,Hawassa
+365,Recruitment,Human Resources,Mekelle
+366,Architecture,Construction,Dire Dawa
+367,Nursing,Healthcare,Bahir Dar
+368,Logistics Coordination,Logistics,Gondar
+369,Technical Support,IT Services,Jimma
+370,Public Speaking,Education,Dessie
+371,Investment Banking,Finance,Addis Ababa
+372,Chemical Engineering,Manufacturing,Adama
+373,Journalism,Media,Remote
+374,Retail Management,Retail,Hawassa
+375,Corporate Law,Law,Mekelle
+376,Environmental Consulting,Consulting,Bahir Dar
+377,Cybersecurity,Information Technology,Dire Dawa
+378,Policy Analysis,Government,Addis Ababa
+379,GIS Specialist,Environmental,Jimma
+380,Mobile Development,E-commerce,Remote
+381,Database Administration,Information Technology,Addis Ababa
+382,Operations Management,Manufacturing,Remote
+383,Financial Planning,Finance,Adama
+384,Brand Management,Retail,Hawassa
+385,Recruitment,Human Resources,Mekelle
+386,Architecture,Construction,Dire Dawa
+387,Nursing,Healthcare,Bahir Dar
+388,Logistics Coordination,Logistics,Gondar
+389,Technical Support,IT Services,Jimma
+390,Public Speaking,Education,Dessie
+391,Investment Banking,Finance,Addis Ababa
+392,Chemical Engineering,Manufacturing,Adama
+393,Journalism,Media,Remote
+394,Retail Management,Retail,Hawassa
+395,Corporate Law,Law,Mekelle
+396,Environmental Consulting,Consulting,Bahir Dar
+397,Cybersecurity,Information Technology,Dire Dawa
+398,Policy Analysis,Government,Addis Ababa
+399,GIS Specialist,Environmental,Jimma
+400,Mobile Development,E-commerce,Remote
+401,Database Administration,Information Technology,Addis Ababa
+402,Operations Management,Manufacturing,Remote
+403,Financial Planning,Finance,Adama
+404,Brand Management,Retail,Hawassa
+405,Recruitment,Human Resources,Mekelle
+406,Architecture,Construction,Dire Dawa
+407,Nursing,Healthcare,Bahir Dar
+408,Logistics Coordination,Logistics,Gondar
+409,Technical Support,IT Services,Jimma
+410,Public Speaking,Education,Dessie
+411,Investment Banking,Finance,Addis Ababa
+412,Chemical Engineering,Manufacturing,Adama
+413,Journalism,Media,Remote
+414,Retail Management,Retail,Hawassa
+415,Corporate Law,Law,Mekelle
+416,Environmental Consulting,Consulting,Bahir Dar
+417,Cybersecurity,Information Technology,Dire Dawa
+418,Policy Analysis,Government,Addis Ababa
+419,GIS Specialist,Environmental,Jimma
+420,Mobile Development,E-commerce,Remote
+421,Database Administration,Information Technology,Addis Ababa
+422,Operations Management,Manufacturing,Remote
+423,Financial Planning,Finance,Adama
+424,Brand Management,Retail,Hawassa
+425,Recruitment,Human Resources,Mekelle
+426,Architecture,Construction,Dire Dawa
+427,Nursing,Healthcare,Bahir Dar
+428,Logistics Coordination,Logistics,Gondar
+429,Technical Support,IT Services,Jimma
+430,Public Speaking,Education,Dessie
+431,Investment Banking,Finance,Addis Ababa
+432,Chemical Engineering,Manufacturing,Adama
+433,Journalism,Media,Remote
+434,Retail Management,Retail,Hawassa
+435,Corporate Law,Law,Mekelle
+436,Environmental Consulting,Consulting,Bahir Dar
+437,Cybersecurity,Information Technology,Dire Dawa
+438,Policy Analysis,Government,Addis Ababa
+439,GIS Specialist,Environmental,Jimma
+440,Mobile Development,E-commerce,Remote
+441,Database Administration,Information Technology,Addis Ababa
+442,Operations Management,Manufacturing,Remote
+443,Financial Planning,Finance,Adama
+444,Brand Management,Retail,Hawassa
+445,Recruitment,Human Resources,Mekelle
+446,Architecture,Construction,Dire Dawa
+447,Nursing,Healthcare,Bahir Dar
+448,Logistics Coordination,Logistics,Gondar
+449,Technical Support,IT Services,Jimma
+450,Public Speaking,Education,Dessie
+451,Investment Banking,Finance,Addis Ababa
+452,Chemical Engineering,Manufacturing,Adama
+453,Journalism,Media,Remote
+454,Retail Management,Retail,Hawassa
+455,Corporate Law,Law,Mekelle
+456,Environmental Consulting,Consulting,Bahir Dar
+457,Cybersecurity,Information Technology,Dire Dawa
+458,Policy Analysis,Government,Addis Ababa
+459,GIS Specialist,Environmental,Jimma
+460,Mobile Development,E-commerce,Remote
+461,Database Administration,Information Technology,Addis Ababa
+462,Operations Management,Manufacturing,Remote
+463,Financial Planning,Finance,Adama
+464,Brand Management,Retail,Hawassa
+465,Recruitment,Human Resources,Mekelle
+466,Architecture,Construction,Dire Dawa
+467,Nursing,Healthcare,Bahir Dar
+468,Logistics Coordination,Logistics,Gondar
+469,Technical Support,IT Services,Jimma
+470,Public Speaking,Education,Dessie
+471,Investment Banking,Finance,Addis Ababa
+472,Chemical Engineering,Manufacturing,Adama
+473,Journalism,Media,Remote
+474,Retail Management,Retail,Hawassa
+475,Corporate Law,Law,Mekelle
+476,Environmental Consulting,Consulting,Bahir Dar
+477,Cybersecurity,Information Technology,Dire Dawa
+478,Policy Analysis,Government,Addis Ababa
+479,GIS Specialist,Environmental,Jimma
+480,Mobile Development,E-commerce,Remote
+481,Database Administration,Information Technology,Addis Ababa
+482,Operations Management,Manufacturing,Remote
+483,Financial Planning,Finance,Adama
+484,Brand Management,Retail,Hawassa
+485,Recruitment,Human Resources,Mekelle
+486,Architecture,Construction,Dire Dawa
+487,Nursing,Healthcare,Bahir Dar
+488,Logistics Coordination,Logistics,Gondar
+489,Technical Support,IT Services,Jimma
+490,Public Speaking,Education,Dessie
+491,Investment Banking,Finance,Addis Ababa
+492,Chemical Engineering,Manufacturing,Adama
+493,Journalism,Media,Remote
+494,Retail Management,Retail,Hawassa
+495,Corporate Law,Law,Mekelle
+496,Environmental Consulting,Consulting,Bahir Dar
+497,Cybersecurity,Information Technology,Dire Dawa
+498,Policy Analysis,Government,Addis Ababa
+499,GIS Specialist,Environmental,Jimma
+500,Mobile Development,E-commerce,Remote
+501,Database Administration,Information Technology,Addis Ababa
+502,Operations Management,Manufacturing,Remote
+503,Financial Planning,Finance,Adama
+504,Brand Management,Retail,Hawassa
+505,Recruitment,Human Resources,Mekelle
+506,Architecture,Construction,Dire Dawa
+507,Nursing,Healthcare,Bahir Dar
+508,Logistics Coordination,Logistics,Gondar
+509,Technical Support,IT Services,Jimma
+510,Public Speaking,Education,Dessie
+511,Investment Banking,Finance,Addis Ababa
+512,Chemical Engineering,Manufacturing,Adama
+513,Journalism,Media,Remote
+514,Retail Management,Retail,Hawassa
+515,Corporate Law,Law,Mekelle
+516,Environmental Consulting,Consulting,Bahir Dar
+517,Cybersecurity,Information Technology,Dire Dawa
+518,Policy Analysis,Government,Addis Ababa
+519,GIS Specialist,Environmental,Jimma
+520,Mobile Development,E-commerce,Remote
+521,Database Administration,Information Technology,Addis Ababa
+522,Operations Management,Manufacturing,Remote
+523,Financial Planning,Finance,Adama
+524,Brand Management,Retail,Hawassa
+525,Recruitment,Human Resources,Mekelle
+526,Architecture,Construction,Dire Dawa
+527,Nursing,Healthcare,Bahir Dar
+528,Logistics Coordination,Logistics,Gondar
+529,Technical Support,IT Services,Jimma
+530,Public Speaking,Education,Dessie
+531,Investment Banking,Finance,Addis Ababa
+532,Chemical Engineering,Manufacturing,Adama
+533,Journalism,Media,Remote
+534,Retail Management,Retail,Hawassa
+535,Corporate Law,Law,Mekelle
+536,Environmental Consulting,Consulting,Bahir Dar
+537,Cybersecurity,Information Technology,Dire Dawa
+538,Policy Analysis,Government,Addis Ababa
+539,GIS Specialist,Environmental,Jimma
+540,Mobile Development,E-commerce,Remote
+541,Database Administration,Information Technology,Addis Ababa
+542,Operations Management,Manufacturing,Remote
+543,Financial Planning,Finance,Adama
+544,Brand Management,Retail,Hawassa
+545,Recruitment,Human Resources,Mekelle
+546,Architecture,Construction,Dire Dawa
+547,Nursing,Healthcare,Bahir Dar
+548,Logistics Coordination,Logistics,Gondar
+549,Technical Support,IT Services,Jimma
+550,Public Speaking,Education,Dessie
+551,Investment Banking,Finance,Addis Ababa
+552,Chemical Engineering,Manufacturing,Adama
+553,Journalism,Media,Remote
+554,Retail Management,Retail,Hawassa
+555,Corporate Law,Law,Mekelle
+556,Environmental Consulting,Consulting,Bahir Dar
+557,Cybersecurity,Information Technology,Dire Dawa
+558,Policy Analysis,Government,Addis Ababa
+559,GIS Specialist,Environmental,Jimma
+560,Mobile Development,E-commerce,Remote
+561,Database Administration,Information Technology,Addis Ababa
+562,Operations Management,Manufacturing,Remote
+563,Financial Planning,Finance,Adama
+564,Brand Management,Retail,Hawassa
+565,Recruitment,Human Resources,Mekelle
+566,Architecture,Construction,Dire Dawa
+567,Nursing,Healthcare,Bahir Dar
+568,Logistics Coordination,Logistics,Gondar
+569,Technical Support,IT Services,Jimma
+570,Public Speaking,Education,Dessie
+571,Investment Banking,Finance,Addis Ababa
+572,Chemical Engineering,Manufacturing,Adama
+573,Journalism,Media,Remote
+574,Retail Management,Retail,Hawassa
+575,Corporate Law,Law,Mekelle
+576,Environmental Consulting,Consulting,Bahir Dar
+577,Cybersecurity,Information Technology,Dire Dawa
+578,Policy Analysis,Government,Addis Ababa
+579,GIS Specialist,Environmental,Jimma
+580,Mobile Development,E-commerce,Remote
+581,Database Administration,Information Technology,Addis Ababa
+582,Operations Management,Manufacturing,Remote
+583,Financial Planning,Finance,Adama
+584,Brand Management,Retail,Hawassa
+585,Recruitment,Human Resources,Mekelle
+586,Architecture,Construction,Dire Dawa
+587,Nursing,Healthcare,Bahir Dar
+588,Logistics Coordination,Logistics,Gondar
+589,Technical Support,IT Services,Jimma
+590,Public Speaking,Education,Dessie
+591,Investment Banking,Finance,Addis Ababa
+592,Chemical Engineering,Manufacturing,Adama
+593,Journalism,Media,Remote
+594,Retail Management,Retail,Hawassa
+595,Corporate Law,Law,Mekelle
+596,Environmental Consulting,Consulting,Bahir Dar
+597,Cybersecurity,Information Technology,Dire Dawa
+598,Policy Analysis,Government,Addis Ababa
+599,GIS Specialist,Environmental,Jimma
+600,Mobile Development,E-commerce,Remote
+601,Database Administration,Information Technology,Addis Ababa
+602,Operations Management,Manufacturing,Remote
+603,Financial Planning,Finance,Adama
+604,Brand Management,Retail,Hawassa
+605,Recruitment,Human Resources,Mekelle
+606,Architecture,Construction,Dire Dawa
+607,Nursing,Healthcare,Bahir Dar
+608,Logistics Coordination,Logistics,Gondar
+609,Technical Support,IT Services,Jimma
+610,Public Speaking,Education,Dessie
+611,Investment Banking,Finance,Addis Ababa
+612,Chemical Engineering,Manufacturing,Adama
+613,Journalism,Media,Remote
+614,Retail Management,Retail,Hawassa
+615,Corporate Law,Law,Mekelle
+616,Environmental Consulting,Consulting,Bahir Dar
+617,Cybersecurity,Information Technology,Dire Dawa
+618,Policy Analysis,Government,Addis Ababa
+619,GIS Specialist,Environmental,Jimma
+620,Mobile Development,E-commerce,Remote
+621,Database Administration,Information Technology,Addis Ababa
+622,Operations Management,Manufacturing,Remote
+623,Financial Planning,Finance,Adama
+624,Brand Management,Retail,Hawassa
+625,Recruitment,Human Resources,Mekelle
+626,Architecture,Construction,Dire Dawa
+627,Nursing,Healthcare,Bahir Dar
+628,Logistics Coordination,Logistics,Gondar
+629,Technical Support,IT Services,Jimma
+630,Public Speaking,Education,Dessie
+631,Investment Banking,Finance,Addis Ababa
+632,Chemical Engineering,Manufacturing,Adama
+633,Journalism,Media,Remote
+634,Retail Management,Retail,Hawassa
+635,Corporate Law,Law,Mekelle
+636,Environmental Consulting,Consulting,Bahir Dar
+637,Cybersecurity,Information Technology,Dire Dawa
+638,Policy Analysis,Government,Addis Ababa
+639,GIS Specialist,Environmental,Jimma
+640,Mobile Development,E-commerce,Remote
+641,Database Administration,Information Technology,Addis Ababa
+642,Operations Management,Manufacturing,Remote
+643,Financial Planning,Finance,Adama
+644,Brand Management,Retail,Hawassa
+645,Recruitment,Human Resources,Mekelle
+646,Architecture,Construction,Dire Dawa
+647,Nursing,Healthcare,Bahir Dar
+648,Logistics Coordination,Logistics,Gondar
+649,Technical Support,IT Services,Jimma
+650,Public Speaking,Education,Dessie
+651,Investment Banking,Finance,Addis Ababa
+652,Chemical Engineering,Manufacturing,Adama
+653,Journalism,Media,Remote
+654,Retail Management,Retail,Hawassa
+655,Corporate Law,Law,Mekelle
+656,Environmental Consulting,Consulting,Bahir Dar
+657,Cybersecurity,Information Technology,Dire Dawa
+658,Policy Analysis,Government,Addis Ababa
+659,GIS Specialist,Environmental,Jimma
+660,Mobile Development,E-commerce,Remote
+661,Database Administration,Information Technology,Addis Ababa
+662,Operations Management,Manufacturing,Remote
+663,Financial Planning,Finance,Adama
+664,Brand Management,Retail,Hawassa
+665,Recruitment,Human Resources,Mekelle
+666,Architecture,Construction,Dire Dawa
+667,Nursing,Healthcare,Bahir Dar
+668,Logistics Coordination,Logistics,Gondar
+669,Technical Support,IT Services,Jimma
+670,Public Speaking,Education,Dessie
+671,Investment Banking,Finance,Addis Ababa
+672,Chemical Engineering,Manufacturing,Adama
+673,Journalism,Media,Remote
+674,Retail Management,Retail,Hawassa
+675,Corporate Law,Law,Mekelle
+676,Environmental Consulting,Consulting,Bahir Dar
+677,Cybersecurity,Information Technology,Dire Dawa
+678,Policy Analysis,Government,Addis Ababa
+679,GIS Specialist,Environmental,Jimma
+680,Mobile Development,E-commerce,Remote
